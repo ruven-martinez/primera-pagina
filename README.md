@@ -1,1 +1,143 @@
 # primera-pagina
+<HTML>
+</HEAD>
+<BODY BGCOLOR=#AFEEEE>
+<TABLE>
+<TR>
+<TH>agua de fresa</TH>
+<TH>PRECIO</TH>
+</TR>
+<TR>
+<TD>1 vaso</TD>
+<TD>MNX 15</TD>
+</TR>
+<TR>
+<TD>2 vasos </TD>
+<TD>MNX 25</TD>
+</TR>
+<TR>
+<TD>3 vasos</TD>
+<TD>MNX 40</TD>
+</TR>
+<TR>
+<TD>4 vasos</TD>
+<TD>MNX 55</TD>
+</TR>
+</TABLE>
+</HEAD>
+<BODY BGCOLOR=SALMON>
+<FONT COLOR=BLACK FONT=ARIAL SIZE=50>
+AUDI<BR>
+<STYLE>
+TABLE, TH, TD{
+BORDER: 1PX SOLID BLACK;
+}
+</STYLE>
+</HEAD>
+<BODY BGCOLOR=#AFEEEE>
+<TABLE>
+<TR>
+<TH>agua de coco</TH>
+<TH>PRECIO</TH>
+</TR>
+<TR>
+<TD>1 vaso</TD>
+<TD>MNX 20</TD>
+</TR>
+<TR>
+<TD>2 vasos</TD>
+<TD>MNX 35</TD>
+</TR>
+<TR>
+<TD>3 vasos</TD>
+<TD>MNX 55</TD>
+</TR>
+<TR>
+<TD>4 vasos</TD>
+<TD>MNX 75</TD>
+</TR>
+</TABLE>
+<FONT COLOR=BLACK FONT=ARIAL SIZE=50>
+FORD<BR>
+<STYLE>
+TABLE, TH, TD{
+BORDER: 1PX SOLID BLACK;
+}
+<FONT COLOR=BLACK FONT=ARIAL SIZE=50>
+agua limon<BR>
+<STYLE>
+TABLE, TH, TD{
+BORDER: 1PX SOLID BLACK;
+}
+</STYLE>
+</HEAD>
+<BODY BGCOLOR=#AFEEEE>
+<TABLE>
+<TR>
+<TH>agua de limon con pepino</TH>
+<TH>PRECIO</TH>
+</TR>
+<TR>
+<TD>1 vaso</TD>
+<TD>MNX 10</TD>
+</TR>
+<TR>
+<TD>2 vasos</TD>
+<TD>MNX 15</TD>
+</TR>
+<TR>
+<TD>3 vasos</TD>
+<TD>MNX 25</TD>
+</TR>
+<TR>
+<TD>4 vasos</TD>
+<TD>MNX 35</TD>
+</TR>
+</TABLE>
+<STYLE>
+TABLE, TH, TD{
+BORDER: 1PX SOLID BLACK;
+BORDER-COLLAPSE: COLLAPSE;
+}
+<MARQUEE DIRECTION=LEFT SCROLLAMOUNT=10 LOOP=25>
+<FONT COLOR=#A52A2A FONT=ARIAL SIZE=50>
+azeyey<BR>
+EDAD:17 AÑOS<BR>
+TERCERO IV<BR>
+DEPORTE:gim<BR>
+COMIDA FAV:hamburguesas<BR>
+<P><EM>Y puros corridos tumbados viejones</EM>
+</FONT>
+</MARQUEE>
+<AUDIO CONTROLS><BR>
+<SOURCE SRC="D:\MUSICA\Las Maravillas de la Vida.MP3"TIPE="/mpeg">
+</AUDIO>
+<VIDEO WIDTH="200" HEIGHT="500" MUTED CONTROLS><BR>
+<SOURCE SRC="D:\VIDIO\bugati.mp4"tipe="video.mp4"><BR>
+</VIDEO>
+<AUDIO CONTROLS><BR>
+<SOURCE SRC="D:\MUSICA\Sabes Una Cosa.MP3"TIPE="/mpeg">
+</AUDIO>
+<VIDEO WIDTH="400" HEIGHT="500" MUTED CONTROLS><BR>
+<SOURCE SRC="D:\VIDIO\porsche.mp4"tipe="video.mp4"><BR>
+</VIDEO>
+<AUDIO CONTROLS><BR>
+<SOURCE SRC="D:\MUSICA\Mexico En La Piel.MP3"TIPE="/mpeg">
+</AUDIO>
+<VIDEO WIDTH="500" HEIGHT="500" MUTED CONTROLS><BR>
+<SOURCE SRC="D:\VIDIO\ferrari.mp4"tipe="video.mp4"><BR>
+</VIDEO>
+<AUDIO CONTROLS><BR>
+<SOURCE SRC="D:\MUSICA\La Media Vuelta.MP3"TIPE="/mpeg">
+</AUDIO>
+<VIDEO WIDTH="600" HEIGHT="500" MUTED CONTROLS><BR>
+<SOURCE SRC="D:\VIDIO\trinidad.mp4"tipe="video.mp4"><BR>
+</VIDEO>
+<AUDIO CONTROLS><BR>
+<SOURCE SRC="D:\MUSICA\Wake Me Up.MP3"TIPE="/mpeg">
+</AUDIO>
+<VIDEO WIDTH="550" HEIGHT="500" MUTED CONTROLS><BR>
+<SOURCE SRC="D:\VIDIO\maclaren.mp4"tipe="video.mp4"><BR>
+</VIDEO>
+</BODY>
+</HTML>
